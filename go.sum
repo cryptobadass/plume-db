@@ -241,10 +241,10 @@ github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46t
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
-github.com/cryptobadass/plume-iavl v1.0.1 h1:Y74TyBe0W/66P3NKFUEj4/RbczE9n7fRCnEbRt7+XGs=
-github.com/cryptobadass/plume-iavl v1.0.1/go.mod h1:7PfkEVT5dcoQE+s/9KWdoXJ8VVVP1QpYYPLdxlkSXFk=
-github.com/cryptobadass/tm-db v0.0.0-20250417010054-f13f79258600 h1:8ae7jCJlobIE1489RH79VBANPUK+Y7wuuZ7/2nVvrXk=
-github.com/cryptobadass/tm-db v0.0.0-20250417010054-f13f79258600/go.mod h1:PWsIWOTwdwC7Ow/GUvx8HgUJTO691pBuorIQD8JvwAs=
+github.com/cryptobadass/plume-iavl v1.0.0 h1:xqc4SxBWahoKaGDP62q5kQy1ZsjrVL758gvlpiOC9gA=
+github.com/cryptobadass/plume-iavl v1.0.0/go.mod h1:7PfkEVT5dcoQE+s/9KWdoXJ8VVVP1QpYYPLdxlkSXFk=
+github.com/cryptobadass/tm-db v1.0.0 h1:r/PivqmFkcj0SjgOTVvPsH7/UIfQwIUSdZW17gJf3ic=
+github.com/cryptobadass/tm-db v1.0.0/go.mod h1:PWsIWOTwdwC7Ow/GUvx8HgUJTO691pBuorIQD8JvwAs=
 github.com/cyphar/filepath-securejoin v0.2.3/go.mod h1:aPGpWjXOXUn2NCNjFvBE6aRxGGx79pTxQpKOJNYHHl4=
 github.com/daixiang0/gci v0.3.3/go.mod h1:1Xr2bxnQbDxCqqulUOv8qpGqkgRw9RSCGGjEC2LjF8o=
 github.com/davecgh/go-spew v0.0.0-20161028175848-04cdfd42973b/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

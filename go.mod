@@ -94,7 +94,7 @@ require (
 )
 
 replace (
-	github.com/cosmos/iavl => github.com/cryptobadass/plume-iavl v1.0.1 // v0.1.8-0.20230726213826-031d03d26f2d
+	github.com/cosmos/iavl => github.com/cryptobadass/plume-iavl v1.0.0
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tm-db => github.com/cryptobadass/tm-db v0.0.0-20250417010054-f13f79258600 //v0.0.4
+	github.com/tendermint/tm-db => github.com/cryptobadass/tm-db v1.0.0
 )
